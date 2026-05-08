@@ -22,7 +22,7 @@ import numpy as np
 from pathlib import Path
 from ultralytics import YOLO
 import logging
-from typing import Tuple, List, Optional
+from typing import List, Optional
 
 # Configure logging
 logging.basicConfig(
